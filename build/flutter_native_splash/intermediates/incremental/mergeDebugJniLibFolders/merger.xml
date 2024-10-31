@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\andre\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.4.1\android\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\andre\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.4.1\android\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Admini\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.4.1\android\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Admini\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.4.1\android\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> 615725f6d80111521e648187768e6d0a85353d80
